@@ -1,0 +1,21 @@
+# Keep inference weights and task-specific data outside this public documentation.
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.caffemodel
+models/
+outputs/
+work/
+private/
+local/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.DS_Store

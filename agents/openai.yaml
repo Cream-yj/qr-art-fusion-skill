@@ -1,0 +1,4 @@
+interface:
+  display_name: "插画融合式艺术二维码"
+  short_description: "将二维码融入完整插画，支持结构约束、局部修复与实际成品扫码验证"
+  default_prompt: "使用 $qr-art-fusion，把我提供的二维码融入指定主题的完整插画，保留原扫码内容，并说明实际导出文件的验码结果。"
